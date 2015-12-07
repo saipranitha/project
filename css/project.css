@@ -1,0 +1,95 @@
+
+.head{
+  background: #7fffd4;
+    background-image: url('img/plain.jpg');
+    height: 200px;
+}
+.head h2{
+  padding-top: 50px;
+  text-align: left;
+  font-family:  cursive;
+  font-size: 50px;
+  text-decoration-style: double;
+  text-shadow: 10px,0,0,10px;
+}
+nav li{
+  display: inline;
+  float:right;
+  text-decoration: none;
+  padding-right: 10px;
+  margin-top: 10px;
+  font-family: cursive;
+  font-size: 25px;
+  padding-top:0px;
+}
+ul li a { text-decoration: none; }
+  a:hover {
+    color: hotpink;
+text-decoration: underline;
+}
+img{
+  width: 250px;
+  height: 150px;
+  padding-top: 15px;
+}
+p{
+  width: 250px;
+  height: 150px;
+}
+.main{
+  align-items: center;
+  margin-top: 10px;
+}
+div .part1{
+  background: #7fdfff;
+  font-size: 50px;
+  font-family: cursive;
+  height:500px;
+  text-align:center;
+  padding-top: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-width: thick;
+  border-color: black;
+}
+.part1 h1{
+  padding-top: 150px;
+  border-radius: 10px;
+  border-color: black;
+}
+
+section .part2{
+  background:grey;
+  padding-top: 20px;
+}
+.part2 .primary{
+  width: 450px;
+  height:250px;
+  float:right;
+  font-size: 20px;
+  margin-left: 0px;
+  padding-top: 15px;
+}
+.primary ol {
+    list-style-type: decimal;
+}
+.part2 img{
+  width:450px;
+  height:550px;
+  float: left;
+}
+div .part3{
+
+background-color: pink;
+}
+.part3 .primary{
+  float: left;
+  width: 450px;
+  height:250px;
+
+}
+.part3 img{
+  width:250px;
+  height:250px;
+  float: right;
+}
